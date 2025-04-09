@@ -25,18 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats & Pie Chart
-
-### 🌟 Stats
-
-![Jonatão's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonataocardoso&show_icons=true&theme=radical&hide_title=true&count_private=true)
-
-### 🧠 Linguagens mais usadas (Pie)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonataocardoso&layout=compact&theme=radical)
-
----
-
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonataocardoso)  
