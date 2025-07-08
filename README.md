@@ -1,36 +1,30 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19335A&height=120&section=header"/>
 
-> "Crio com código, respiro inovação, e transformo ideias em software."
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=697A89&size=35&center=true&vCenter=true&width=1000&lines=HELLO+🌍,+My+name+is+Johnny+Cardoso;I'm+20+years+old;I'm+from+Angola🇦🇴;Frontend+Developer+and+Dream+Builder🚀;Founder+of+MindWare🧠✨;Here+to+create,+connect+and+inspire!;Welcome+to+my+world!)](https://git.io/typing-svg)
 
----
+<div align="center">  
+  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=WildKnuckles&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
+</div>
 
-## 🧑‍💻 Sobre Mim
+<div style="display: inline_block">
+  <img align="center" alt="Johnny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Johnny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Johnny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Johnny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Johnny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Johnny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</div><br/>
 
-🎯 Desenvolvedor Frontend com paixão por criar interfaces limpas e funcionais  
-🚀 Fundador da **MindWare**, onde construo soluções SaaS  
-🌍 Angola | 20 anos | JavaScript é meu pincel, o browser é minha tela  
+<div> 
+  <a href="https://www.instagram.com/johnnycardoso_wk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jonat%C3%A3o-cardoso-72853b358" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
 
----
-
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=black)
-
----
-
-## 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonataocardoso)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jonatocardoso)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jonatocardoso)
-
----
-
-> 💬 *"Se o futuro é digital, então eu quero estar entre os que o constroem."*
+<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19335A&height=120&section=footer"/>
