@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19335A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=697A89&size=35&center=true&vCenter=true&width=1000&lines=HELLO😊👋🏾,+My+name+is+Johnyy+Cardoso+;I'm+20+years+old;I'm+from+Angola;I'm+a+Softaware+Developer🧑🏾‍💻;Be+better+for+yourself+and+for+others!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=697A89&size=35&center=true&vCenter=true&width=1000&lines=HELLO😊👋🏾,+My+name+is+Johnny+Cardoso+;I'm+20+years+old;I'm+from+Angola;I'm+a+Softaware+Developer🧑🏾‍💻;Be+better+for+yourself+and+for+others!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=WildKnuckles&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
@@ -30,4 +30,5 @@
   <a href="https://www.linkedin.com/in/jonat%C3%A3o-cardoso-72853b358" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src="https://raw.githubusercontent
+<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19335A&height=120&section=footer"/>
